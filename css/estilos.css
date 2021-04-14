@@ -8,7 +8,7 @@
    * colocarse en el elemento
    * raíz. */
   /* Propiedades de la interfaz */
-  --colorPrimario: white;
+  --colorPrimario: #FFFFFF;
   --colorPrimarioFondo: #7364F0;
   --colorActive: #64f0e9;
   --colorContenido: rgb(255, 255, 255);
