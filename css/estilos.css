@@ -52,8 +52,7 @@ body {
 
 header {
   color: var(--colorPrimario);
-  background-color:
-    var(--colorPrimarioFondo);
+  background-color: #7364F0;
   
  
   top: 0;
