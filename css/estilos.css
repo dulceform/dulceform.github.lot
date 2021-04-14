@@ -9,7 +9,7 @@
    * raíz. */
   /* Propiedades de la interfaz */
   --colorPrimario: black;
-  --colorPrimarioFondo: #64f0e9;
+  --colorPrimarioFondo: #7364F0;
   --colorActive: #64f0e9;
   --colorContenido: rgb(255, 255, 255);
   --colorContenidoFondo: white;
@@ -142,7 +142,7 @@ footer {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #64f0e9;
+  background-color: #7364F0;
   color: black;
   text-align: center;
 }
